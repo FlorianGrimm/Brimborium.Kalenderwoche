@@ -1,2 +1,5 @@
 # Brimborium.Kalenderwoche
-Kalenderwoche for Javascript
+
+Kalenderwoche for Typescript
+
+for learning Jest a little bit.
